@@ -6,7 +6,7 @@ untrusted applications we run today. Here's how to setup the Brave Browser to
 run in Docker.
 
 This repository is released in tandem with the blog post
-[here](https://mbacchi.github.io/2019/09/09/brave-in-docker.html).
+[here](https://bacchi.org/posts/brave-in-docker/).
 
 ## Host environmnet
 
